@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on [copecstacy](https://copecstacy.blinkstore.in/)
 
 - 🌱 I’m currently learning **Matlab**
+- HERE IS certificate of that (https://matlabacademy.mathworks.com/progress/share/certificate.html?id=cc0495f6-c8ca-47b6-9a06-9abaa002e3ff&).
 
 - 👯 I’m looking to collaborate on [Thinker CAD](https://www.tinkercad.com/things/9jLv40jZo6J)
 
