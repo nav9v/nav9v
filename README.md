@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [quard project](https://www.playbook.com/s/meham/vBhzeKpQuEc8LkgNSB4rZzRQ)
 
-- 💬 Ask me about **Tech happenings**
+- 💬 Ask me about **C, C++, Tech**
 
 - 📫 How to reach me **navneetsharma2302@gmail.com**
 - 🔭 I’m currently working on [copecstacy](https://copecstacy.blinkstore.in/)
