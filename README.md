@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Matlab**
 - Here is certificate (https://matlabacademy.mathworks.com/progress/share/certificate.html?id=cc0495f6-c8ca-47b6-9a06-9abaa002e3ff&).
 
-- 👀 I’m looking to collaborate on [Thinker CAD](https://www.tinkercad.com/things/9jLv40jZo6J)
+- 👀 I’m looking to collaborate on [Thinker CAD]([https://www.tinkercad.com/things/9jLv40jZo6J](https://www.tinkercad.com/embed/bm3LqgwmO69?editbtn=1))
 
 - 🤝 I’m looking for help with [quard project](https://www.playbook.com/s/meham/vBhzeKpQuEc8LkgNSB4rZzRQ)
 
