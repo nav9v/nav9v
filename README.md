@@ -1,5 +1,6 @@
+##hasijs
 <h1 align="center">Hi 👋, I'm Navneet Sharma</h1>
-##<h3 align="center">A passionate in cod, IoT, robotics and cad stuff.</h3>
+<h3 align="center">A passionate in cod, IoT, robotics and cad stuff.</h3>
 
 
 - 🔭 I’m currently working on [copecstacy](https://copecstacy.blinkstore.in/)
