@@ -4,7 +4,6 @@
 <h3 align="center">A passionate in code, IoT, robotics and cad stuff.</h3>
 
 
-- 🔭 I’m currently working on [copecstacy](https://copecstacy.blinkstore.in/)
 
 - 🌱 I’m currently learning **Matlab**
 - Here is certificate (https://matlabacademy.mathworks.com/progress/share/certificate.html?id=cc0495f6-c8ca-47b6-9a06-9abaa002e3ff&).
@@ -16,6 +15,8 @@
 - 💬 Ask me about **Tech happenings**
 
 - 📫 How to reach me **navneetsharma2302@gmail.com**
+- 🔭 I’m currently working on [copecstacy](https://copecstacy.blinkstore.in/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
