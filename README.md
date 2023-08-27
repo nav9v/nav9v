@@ -1,8 +1,6 @@
-##snbj loop
-<h1 align="center">Hi 👋, I'm Navneet Sharma</h1>alt (nav9v)
+<h1 align="center">Hi 👋, I'm Navneet Sharma</h1>
 <h2 align="center"> Languages C, C++, HTML, CSS. 
 <h3 align="center">A passionate in code, IoT, robotics and cad stuff.</h3>
-
 
 
 - 🌱 I’m currently learning **Matlab**
