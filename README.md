@@ -40,7 +40,7 @@
 [twitter]: https://twitter.com/nav9v
 [spotify]: https://open.spotify.com/user/5eh6tsz0ogz9hlq2l82de0mvg
 [discord]: 
-[here]: https://medium.com/@nav9v
+[medium]: https://medium.com/@nav9v
 
 ![visitors](https://komarev.com/ghpvc/?username=sanyampunia&style=flat-square)
 <h3 align="left">Languages and Tools:</h3>
