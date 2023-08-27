@@ -25,7 +25,7 @@
 [<img align="left" alt="YouTube" width="22px" src="https://img.icons8.com/color/48/000000/instagram.png"/>][instagram]
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />][spotify]
-//[<img align="left" alt="Discord" width="22px" src="https://img.icons8.com/fluency/48/000000/discord-logo.png" />][discord]
+[<img align="left" alt="Discord" width="22px" src="https://img.icons8.com/fluency/48/000000/discord-logo.png" />][discord]
 
 <br/>
 
@@ -39,7 +39,7 @@
 [instagram]: https://instagram.com/nav9v
 [twitter]: https://twitter.com/nav9v
 [spotify]: https://open.spotify.com/user/5eh6tsz0ogz9hlq2l82de0mvg
-//[discord]: 
+[discord]: https://discord.gg/S5HNY2Gz
 
 ![visitors](https://komarev.com/ghpvc/?username=sanyampunia&style=flat-square)
 <h3 align="left">Languages and Tools:</h3>
