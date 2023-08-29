@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning **Matlab**
-- [Here](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=cc0495f6-c8ca-47b6-9a06-9abaa002e3ff&) is certificate 
+- [Here](https://www.linkedin.com/in/navneetsharma0/) is certificate 
 
 - 👀 I’m looking to collaborate on [Thinker CAD](https://www.tinkercad.com/embed/bm3LqgwmO69?editbtn=1)
 
