@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navneet Sharma</h1>
-<h2 align="center"> Languages C, C++, HTML, CSS. 
+<h2 align="center"> Languages C, C++, HTML, CSS, Py.
 <h3 align="center">A passionate in code, IoT, robotics and cad stuff.</h3>
 
 
@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [quard project](https://www.playbook.com/s/meham/vBhzeKpQuEc8LkgNSB4rZzRQ)
 
-- 💬 Ask me about **C, C++, Tech**
+- 💬 Ask me about **C, C++, Tech, AI/ML**
 
 - 📫 How to reach me **navneetsharma2302@gmail.com**
 - 🔭 I’m currently working on [copecstacy](https://copecstacy.blinkstore.in/)
