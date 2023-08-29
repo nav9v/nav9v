@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navneet Sharma</h1>
-<h2 align="center"> Languages C, C++, HTML, CSS, Py.
+<h2 align="center"> Languages C, C++, HTML, Py.
 <h3 align="center">A passionate in code, IoT, robotics and cad stuff.</h3>
 
 
