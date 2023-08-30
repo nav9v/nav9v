@@ -35,9 +35,10 @@
 
 [website]: https://nav9v.github.io/
 [instagram]: https://instagram.com/nav9v
-[twitter]: https://twitter.com/nav9v
+[youtube]: https://youtube.com/@NavneetSharmaa
 [spotify]: https://open.spotify.com/user/5eh6tsz0ogz9hlq2l82de0mvg
 [discord]: https://discord.gg/S5HNY2Gz
+[twitter]: https://twitter.com/nav9v
 
 ![visitors](https://komarev.com/ghpvc/?username=nav9v&style=flat-square)
 <h3 align="left">Languages and Tools:</h3>
