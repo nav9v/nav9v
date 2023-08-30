@@ -15,7 +15,7 @@
 - 📫 How to reach me **navneetsharma2302@gmail.com**
 - 🔭 I’m currently working on [copecstacy](https://copecstacy.blinkstore.in/)
 
-
+- [**YouTube**]( https://youtube.com/@NavneetSharmaa)
 
 ### Connect with me:
 
