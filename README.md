@@ -3,7 +3,7 @@
 <h3 align="center">A passionate in Code, IoT, Robotics and CAD stuff, AI/ML.</h3>
 
 
-- 🌱 I’m currently learning **Matlab**
+- 🌱🧑‍💻⚙️ I’m currently working on Inventory Management System using [UAV 📦](https://drive.google.com/drive/folders/1JUWDhZO8yf9YcJdOUo9APtqmapXFEJGY?usp=sharing)
 - [Here](https://www.linkedin.com/in/navneetsharma0/) is certificate 
 
 - 👀 I’m looking to collaborate on [Thinker CAD](https://www.tinkercad.com/embed/bm3LqgwmO69?editbtn=1)
