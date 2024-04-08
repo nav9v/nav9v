@@ -4,7 +4,6 @@
 
 
 - 🌱🧑‍💻⚙️ I’m currently working on Inventory Management System using [UAV 📦](https://drive.google.com/drive/folders/1JUWDhZO8yf9YcJdOUo9APtqmapXFEJGY?usp=sharing)
-- [Here](https://www.linkedin.com/in/navneetsharma0/) is certificate 
 
 - 👀 I’m looking to collaborate on [Thinker CAD](https://www.tinkercad.com/embed/bm3LqgwmO69?editbtn=1)
 
@@ -13,6 +12,7 @@
 - 💬 Ask me about **C, C++, Tech, AI/ML**
 
 - 📫 How to reach me **navneetsharma2302@gmail.com**
+  
 - 🔭 I’m currently working on [copecstacy](https://copecstacy.blinkstore.in/)
 
 - [**YouTube**]( https://youtube.com/@NavneetSharmaa)
