@@ -59,7 +59,7 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>  
 <a href="https://codepen.io/" target="_blank" rel="noreferrer">
-<img src="https://blog.codepen.io/wp-content/uploads/2023/09/logo-white.png" alt="codepen" width="40" height="40"/> </a>
+<img src="https://pbs.twimg.com/profile_images/923214541290221569/dCMZxkwz_400x400.jpg" alt="codepen" width="40" height="40"/> </a>
 <a href="https://ardupilot.org/" target="_blank" rel="noreferrer">
 <img src="https://ardupilot.org/images/ArduPilot-Motto.png" alt="Ardupilot" width="70" height="40"/> </a>
 <a href="https://www.osrfoundation.org/" target="_blank" rel="noreferrer">
