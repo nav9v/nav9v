@@ -9,7 +9,7 @@
 
 ### Past Projects 
 
-*  **Quadcopter Project**  [Project Details](https://www.playbook.com/s/meham/vBhzeKpQuEc8LkgNSB4rZzRQ){:target="_blank"}
+*  **Quadcopter Project**  [Project Details](https://www.playbook.com/s/meham/vBhzeKpQuEc8LkgNSB4rZzRQ)
 *  **Copecstacy Website** [Visit copecstacy](https://copecstacy.blinkstore.in/)
 *  **ThinkerCAD Collaboration** [Check it out](https://www.tinkercad.com/embed/bm3LqgwmO69?editbtn=1)
 
