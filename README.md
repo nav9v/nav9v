@@ -5,13 +5,13 @@
 
 ### Ongoing 
 
-*  **Inventory Management System using UAVs 📦**  [Project Link](https://drive.google.com/drive/folders/1JUWDhZO8yf9YcJdOUo9APtqmapXFEJGY?usp=sharing) {:target="_blank"}
+*  **Inventory Management System using UAVs 📦**  [Project Link](https://drive.google.com/drive/folders/1JUWDhZO8yf9YcJdOUo9APtqmapXFEJGY?usp=sharing)
 
 ### Past Projects 
 
-*  **Quadcopter Project**  [Project Details](https://www.playbook.com/s/meham/vBhzeKpQuEc8LkgNSB4rZzRQ) {:target="_blank"}
-*  **Copecstacy Website** [Visit copecstacy](https://copecstacy.blinkstore.in/) {:target="_blank"}
-*  **ThinkerCAD Collaboration** [Check it out](https://www.tinkercad.com/embed/bm3LqgwmO69?editbtn=1) {:target="_blank"}
+*  **Quadcopter Project**  [Project Details](https://www.playbook.com/s/meham/vBhzeKpQuEc8LkgNSB4rZzRQ)
+*  **Copecstacy Website** [Visit copecstacy](https://copecstacy.blinkstore.in/)
+*  **ThinkerCAD Collaboration** [Check it out](https://www.tinkercad.com/embed/bm3LqgwmO69?editbtn=1)
 
 - 💬 Ask me about **C, C++, Tech, AI/ML**
 
