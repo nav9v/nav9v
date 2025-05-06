@@ -17,6 +17,7 @@
   
 ### Connect with me:
 
+[<img align="left" alt="https://nav9v.github.io/" width="22px" src="https://img.icons8.com/color/50/000000/geography--v3.png" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://img.icons8.com/color/48/000000/instagram.png"/>][instagram]
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />][spotify]
