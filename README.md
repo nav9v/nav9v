@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navneet Sharma</h1>
 <!-- <h2 align="center"> Languages C, C++, Py. -->
 <h3 align="center">A passionate in Code, IoT, Robotics and CAD stuff, AI/ML.</h3>
-
-
 <!-- ### Ongoing -->
-
 
 ### Past Projects 
 
@@ -15,22 +12,22 @@
 
 - 💬 Ask me about **C, C++, Tech, AI/ML**
 
-- 📫 How to reach me **navneetsharma2302@gmail.com**
+- 📫 How to reach me
+- **Email:** navneetsharma2302@gmail.com**
   
 ### Connect with me:
 
-[<img align="left" alt="https://nav9v.github.io/" width="22px" src="https://img.icons8.com/color/50/000000/geography--v3.png" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://img.icons8.com/color/48/000000/instagram.png"/>][instagram]
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />][spotify]
 [<img align="left" alt="Discord" width="22px" src="https://img.icons8.com/fluency/48/000000/discord-logo.png" />][discord]
 
-<br/>
+<br>
 
 ### ⚡ GitHub Stats
   
 [![Navneet's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nav9v&show_icons=true&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+</br>
 
 [website]: https://nav9v.github.io/
 [instagram]: https://instagram.com/nav9v
@@ -44,9 +41,7 @@
 ### Languages and Tools
 <p align="left">
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://bootstrapstudio.io/assets/img/logo_128.png" alt="bootstrap" width="40" height="40"/> </a> 
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="35" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -57,8 +52,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>  
-<a href="https://codepen.io/" target="_blank" rel="noreferrer">
-<img src="https://pbs.twimg.com/profile_images/923214541290221569/dCMZxkwz_400x400.jpg" alt="codepen" width="40" height="40"/> </a>
 <a href="https://ardupilot.org/" target="_blank" rel="noreferrer">
 <img src="https://ardupilot.org/images/ArduPilot-Motto.png" alt="Ardupilot" width="70" height="40"/> </a>
 <a href="https://www.osrfoundation.org/" target="_blank" rel="noreferrer">
