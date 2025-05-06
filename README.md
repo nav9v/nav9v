@@ -3,14 +3,14 @@
 <h3 align="center">A passionate in Code, IoT, Robotics and CAD stuff, AI/ML.</h3>
 
 
-### Ongoing 
+<!-- ### Ongoing -->
 
-*  **Inventory Management System using UAVs 📦**  [Project Link](https://drive.google.com/drive/folders/1JUWDhZO8yf9YcJdOUo9APtqmapXFEJGY?usp=sharing)
 
 ### Past Projects 
 
+*  **Road Anomaly Detection** [Project Details](https://github.com/collabdoor/Road-Anomaly-Detection)
+*  **Inventory Management System using UAVs 📦**  [Project Link](https://drive.google.com/drive/folders/1JUWDhZO8yf9YcJdOUo9APtqmapXFEJGY?usp=sharing)
 *  **Quadcopter Project**  [Project Details](https://www.playbook.com/s/meham/vBhzeKpQuEc8LkgNSB4rZzRQ)
-*  **Copecstacy Website** [Visit copecstacy](https://copecstacy.blinkstore.in/)
 *  **ThinkerCAD Collaboration** [Check it out](https://www.tinkercad.com/embed/bm3LqgwmO69?editbtn=1)
 
 - 💬 Ask me about **C, C++, Tech, AI/ML**
@@ -30,7 +30,6 @@
 ### ⚡ GitHub Stats
   
 [![Navneet's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nav9v&show_icons=true&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <br/>
 
 [website]: https://nav9v.github.io/
