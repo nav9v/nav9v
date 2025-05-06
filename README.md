@@ -10,10 +10,12 @@
 *  **Quadcopter Project**  [Project Details](https://www.playbook.com/s/meham/vBhzeKpQuEc8LkgNSB4rZzRQ)
 *  **ThinkerCAD Collaboration** [Check it out](https://www.tinkercad.com/embed/bm3LqgwmO69?editbtn=1)
 
+
+
 - 💬 Ask me about **C, C++, Tech, AI/ML**
 
 - 📫 How to reach me
-- **Email:** navneetsharma2302@gmail.com**
+- **Email:** **navneetsharma2302@gmail.com**
   
 ### Connect with me:
 
@@ -53,13 +55,14 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>  
-<a href="https://ardupilot.org/" target="_blank" rel="noreferrer">
-<img src="https://ardupilot.org/images/ArduPilot-Motto.png" alt="Ardupilot" width="70" height="40"/> </a>
-<a href="https://www.osrfoundation.org/" target="_blank" rel="noreferrer">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg94Km2S_zKWfktGYBRfhnv7u31hj98cS0MJzrAUQQqQ&s" alt="Open Source Robotics" width="40" height="40"/> </a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="45" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python" width="40" height="40"/></a></p>
+<a href="https://www.osrfoundation.org/" target="_blank" rel="noreferrer">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg94Km2S_zKWfktGYBRfhnv7u31hj98cS0MJzrAUQQqQ&s" alt="Open Source Robotics" width="40" height="40"/> </a><p/>
+
+<!--<a href="https://ardupilot.org/" target="_blank" rel="noreferrer">
+<img src="https://ardupilot.org/images/ArduPilot-Motto.png" alt="Ardupilot" width="80" height="40"/> </a>-->
