@@ -24,9 +24,7 @@
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />][spotify]
 [<img align="left" alt="Discord" width="22px" src="https://img.icons8.com/fluency/48/000000/discord-logo.png" />][discord]
-
 <br>
-
 ### ⚡ GitHub Stats
   
 [![Navneet's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nav9v&show_icons=true&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -40,6 +38,7 @@
 [twitter]: https://twitter.com/nav9v
 
 ![visitors](https://komarev.com/ghpvc/?username=nav9v&style=flat-square)
+[![Peerlist](https://github-readme-badge.peerlist.io/api/nav9v)](https://peerlist.io/nav9v)
 
 ### Languages and Tools
 <p align="left">
