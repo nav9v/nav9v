@@ -38,7 +38,6 @@
 [twitter]: https://twitter.com/nav9v
 
 ![visitors](https://komarev.com/ghpvc/?username=nav9v&style=flat-square)
-[![Peerlist](https://github-readme-badge.peerlist.io/api/nav9v)](https://peerlist.io/nav9v)
 
 ### Languages and Tools
 <p align="left">
