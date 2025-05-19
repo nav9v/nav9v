@@ -26,8 +26,7 @@
 [<img align="left" alt="Discord" width="22px" src="https://img.icons8.com/fluency/48/000000/discord-logo.png" />][discord]
 <br>
 ### ⚡ GitHub Stats
-  
-[![Navneet's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nav9v&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&rank_icon=percentile&theme=dark&bg_color=000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Navneet's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nav9v&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&rank_icon=percentile&theme=dark&bg_color=151515#gh-dark-mode-only)](https://github.com/rickstaa/github-readme-stats)
 </br>
 
 [website]: https://nav9v.github.io/
