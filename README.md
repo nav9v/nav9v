@@ -15,7 +15,7 @@
 - 💬 Ask me about **C, C++, Tech, AI/ML**
 
 - 📫 How to reach me
-- **Email:** **navneetsharma2302@gmail.com**
+- **Email:** **nav9v@protonmail.com**
   
 ### Connect with me:
 
