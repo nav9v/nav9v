@@ -8,7 +8,7 @@
 *  **Road Anomaly Detection** [Project Details](https://github.com/collabdoor/Road-Anomaly-Detection)
 *  **Inventory Management System using UAVs 📦**  [Project Link](https://drive.google.com/drive/folders/1JUWDhZO8yf9YcJdOUo9APtqmapXFEJGY?usp=sharing)
 *  **Quadcopter Project**  [Project Details](https://www.playbook.com/s/meham/vBhzeKpQuEc8LkgNSB4rZzRQ)
-*  **ThinkerCAD Collaboration** [Check it out](https://www.tinkercad.com/embed/bm3LqgwmO69?editbtn=1)
+*  **ThinkerCAD ** [Check it out](https://www.tinkercad.com/embed/bm3LqgwmO69?editbtn=1)
 
 
 
