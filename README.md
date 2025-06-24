@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Navneet Sharma</h1>
+<h1 align="center">Hi, I'm Navneet Sharma</h1>
 <!-- <h2 align="center"> Languages C, C++, Py. -->
-<h3 align="center">A passionate in Code, IoT, Robotics and CAD stuff, AI/ML.</h3>
+<!-- <h3 align="center">A passionate in Code, IoT, Robotics and CAD stuff, AI/ML.</h3>
 <!-- ### Ongoing -->
 
 ### Past Projects 
@@ -12,10 +12,9 @@
 
 
 
-- 💬 Ask me about **C, C++, Tech, AI/ML**
+<!-- - 💬 Ask me about **C, C++, Tech, AI/ML** -->
 
-- 📫 How to reach me
-- **Email:** **nav9v@protonmail.com**
+- 📬 Email at : nav9v [at] protonmail[dot] com
   
 ### Connect with me:
 
@@ -38,7 +37,7 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=nav9v&style=flat-square)
 
-### Languages and Tools
+<!-- ### Languages and Tools
 <p align="left">
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  
