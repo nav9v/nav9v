@@ -14,7 +14,7 @@
 
 <!-- - 💬 Ask me about **C, C++, Tech, AI/ML** -->
 
-- 📬 Email at : nav9v [at] protonmail[dot] com
+- 📬 Email at : nav9v [at] protonmail [dot] com
   
 ### Connect with me:
 
