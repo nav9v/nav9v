@@ -2,7 +2,7 @@
 <!-- <h2 align="center"> Languages C, C++, Py. -->
 <!-- <h3 align="center">A passionate in Code, IoT, Robotics and CAD stuff, AI/ML.</h3>
 <!-- ### Ongoing -->
-<img src="https://raw.githubusercontent.com/nav9v/nav9v/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nav9v/nav9v/output/snake-dark.svg" alt="Snake animation" />
 
 ### Past Projects 
 
