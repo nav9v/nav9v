@@ -6,9 +6,9 @@
 
 ### Past Projects 
 
-*  **Road Anomaly Detection** [hmmmm](https://github.com/collabdoor/Road-Anomaly-Detection)
-*  **Inventory Management System using UAVs 📦**  [lemi see](https://drive.google.com/drive/folders/1JUWDhZO8yf9YcJdOUo9APtqmapXFEJGY?usp=sharing)
-*  **Quadcopter Project**  [yes, it flies](https://www.playbook.com/s/meham/vBhzeKpQuEc8LkgNSB4rZzRQ)
+*  **Road Anomaly Detection** [🛣️](https://github.com/collabdoor/Road-Anomaly-Detection)
+*  **Inventory Management System using UAVs 📦**  [🛸](https://drive.google.com/drive/folders/1JUWDhZO8yf9YcJdOUo9APtqmapXFEJGY?usp=sharing)
+*  **Quadcopter Project**  [🛩️](https://www.playbook.com/s/meham/vBhzeKpQuEc8LkgNSB4rZzRQ)
 *  **ThinkerCAD** [ctrl + z](https://www.tinkercad.com/embed/bm3LqgwmO69?editbtn=1)
 
 
